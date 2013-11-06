@@ -1,4 +1,10 @@
 NPDS_tutorial2
 ==============
 
-Tutorial 1 | Networking Programming and Distributed Systems | NCI
+ National College of Ireland (NCI)
+ Networking Programming and Distributed Systems (NPDS)
+ Tutorial 2
+
+ Introduction to Network Programming
+with Java
+  - Using Datagram (UDP) Sockets and TCP Sockets
